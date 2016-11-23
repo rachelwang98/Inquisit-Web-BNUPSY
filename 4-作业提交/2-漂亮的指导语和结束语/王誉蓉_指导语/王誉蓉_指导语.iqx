@@ -1,0 +1,12 @@
+﻿<htmlpage introduction>
+/ file = "instruction.htm"
+</htmlpage>
+
+<htmlpage end>
+/ file = "end.htm"
+</htmlpage>
+
+<expt>
+/ preinstructions = (introduction)
+/ postinstructions = (end)
+</expt>
